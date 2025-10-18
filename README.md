@@ -9,7 +9,8 @@
 - Systems...
 
 ## Repo Address
-- https://ios-gm.github.io/LFRepo
+- https://ad-ios.github.io/LFRepo
+- 也許: https://hy1fly.github.io/lfjb
 
 ## QQ交流群
 - 快捷链接https://qm.qq.com/q/Abert9k84o

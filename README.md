@@ -1,4 +1,9 @@
-# LFRepo -- iOS Jailbreak Repo
+# lfjb -- iOS Jailbreak apt Repo of LF
+
+<br>
+#### by AD Reconstruct, by AD Restore update
+<br>
+
 ## Supports
 - RootlessJB
 - iOS15 ~ 16
@@ -8,11 +13,10 @@
 - Tweaks
 - Systems...
 
-## Repo Address
-- https://ad-ios.github.io/LFRepo
-- 也許: https://hy1fly.github.io/lfjb
+## QQ 交流群
+- 快捷鏈接: https://qm.qq.com/q/Abert9k84o
+- 1群的群號: 1030152896
+- 2群的群號: 837894083
 
-## QQ交流群
-- 快捷链接https://qm.qq.com/q/Abert9k84o
-- 1群的群号：1030152896
-- 2群的群号：837894083
+---
+

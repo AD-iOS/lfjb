@@ -3,7 +3,7 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: LF
 Depends: bash
-Filename: ./debs/Themes/1688SHFonts_1.0_iphoneos-arm64.deb
+Filename: ./debs/binary-iphoneos-arm64/Themes/1/1688SHFonts_1.0_iphoneos-arm64.deb
 Size: 5805248
 MD5sum: ec5457e59f7f2bd30938f222ad0a0474
 SHA1: bbbad486a56804195a0d50b9cd84222e744d550b
@@ -25,7 +25,7 @@ Package: Camera.PRO
 Version: 1.0.0
 Architecture: iphoneos-arm64
 Depends: firmware (>= 13.0), mobilesubstrate
-Filename: ./debs/Tweaks/CameraPro.deb
+Filename: ./debs/History/binary-iphoneos-arm64/Tweaks/C/CameraPro.deb
 Size: 17644
 MD5sum: 80cea057e95800462cdd755230de2465
 SHA1: 40ea446ce51078cbfb2bd20f1bbb0c406a568834
@@ -40,7 +40,7 @@ Package: Camera.PRO
 Version: 1.0.0
 Architecture: iphoneos-arm64
 Depends: firmware (>= 13.0), mobilesubstrate
-Filename: ./debs/Old/CameraPro.deb
+Filename: ./debs/binary-iphoneos-arm64/Tweak/C/CameraPro.deb
 Size: 17644
 MD5sum: 80cea057e95800462cdd755230de2465
 SHA1: 40ea446ce51078cbfb2bd20f1bbb0c406a568834
@@ -56,7 +56,7 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: LF
 Depends: bash
-Filename: ./debs/Themes/DYFont.deb
+Filename: ./debs/binary-iphoneos-arm64/Themes/D/DYFont.deb
 Size: 8768764
 MD5sum: a1dfd124de965841db168aeb84345cc3
 SHA1: 0696b65e9f7dcb374df7de2f944d03deba9cb56b
@@ -72,7 +72,7 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: LF
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/systems/LegacyPatcher.deb
+Filename: ./debs/History/binary-iphoneos-arm64/Systems/L/LegacyPatcher.deb
 Size: 95788
 MD5sum: f08d43313461743e5d7f860b48655a4d
 SHA1: 3d3a652f027538f45a7f296b85feed0c8d1997d2
@@ -87,7 +87,7 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: LF
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/Old/LegacyPatcher.deb
+Filename: ./debs/binary-iphoneos-arm64/Systems/L/LegacyPatcher.deb
 Size: 95788
 MD5sum: f08d43313461743e5d7f860b48655a4d
 SHA1: 3d3a652f027538f45a7f296b85feed0c8d1997d2
@@ -102,7 +102,7 @@ Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: LF
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/Old/PlumpyBar.deb
+Filename: ./debs/History/binary-iphoneos-arm64/Themes/P/PlumpyBar.deb
 Size: 70340
 MD5sum: b40aabb6829df8886da96f1856a6fcb2
 SHA1: 2e9bff2273515d8dc8fb1010f0e207f59c30fe4a
@@ -117,7 +117,7 @@ Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: LF
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/Themes/PlumpyBar.deb
+Filename: ./debs/binary-iphoneos-arm64/Themes/P/PlumpyBar.deb
 Size: 70340
 MD5sum: b40aabb6829df8886da96f1856a6fcb2
 SHA1: 2e9bff2273515d8dc8fb1010f0e207f59c30fe4a
@@ -127,30 +127,12 @@ Description: Plumpy styles bar theme for callassist.由LF支持电话助手，�
 Author: LF
 Name: PlumpyBar
 
-Package: Transfer-LF
-Version: 1.0.0
-Architecture: all
-Maintainer: AD
-Depends: firmware (>= 199999.0)
-Filename: ./debs/Transfer-LF_1.0.0_all.deb
-Size: 1008
-MD5sum: 79b44775f1dfa2054c10f00a75208b1e
-SHA1: 9c6a8a3cda9099c42f53c1291a6ccf00de7587ba
-SHA256: 7f2450ba5c8b0613c60429498c62e9ed5a9ecf3a2818fcb85568ca3a34d31c9c
-Section: Announcement公告
-Description: 本Github倉庫已經全權轉讓給他真正的主人LF 以後的新倉庫地址可能會是: https://hy1fly.github.io/LFRepo/或者是https://hy1fly.github.io/lfjb
- - 本倉庫已經不在由AD託管因為Github名稱變更的原因也正好把轉讓倉庫給LF
- - 雖然現在的源還在我(AD)這裡不過 LF 已經正在搭建新源了
- - 目前https://ad-ios.github.io/LFRepo/是一個臨時源可能隨時會刪除掉
-Author: AD
-Name: 倉庫轉讓
-
 Package: WatermelonBar
 Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: LF
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/Themes/WatermelonBar.deb
+Filename: ./debs/binary-iphoneos-arm64/Themes/W/WatermelonBar.deb
 Size: 286804
 MD5sum: d228b30a80314b19ccc4ef47a28df5a3
 SHA1: 78488308791bfa7a6c3b781019b8471afe328b64
@@ -166,7 +148,7 @@ Architecture: iphoneos-arm64
 Maintainer: null
 Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/systems/DisCPULimited.deb
+Filename: ./debs/History/binary-iphoneos-arm64/Systems/D/DisCPULimited.deb
 Size: 43476
 MD5sum: 34ec2d78b8544ae5346f03f76e8459fb
 SHA1: 8031cfade7409a3b4eac36cc8cd766d1a84c45e5
@@ -182,7 +164,7 @@ Architecture: iphoneos-arm64
 Maintainer: null
 Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/Old/DisCPULimited.deb
+Filename: ./debs/binary-iphoneos-arm64/Systems/D/DisCPULimited.deb
 Size: 43476
 MD5sum: 34ec2d78b8544ae5346f03f76e8459fb
 SHA1: 8031cfade7409a3b4eac36cc8cd766d1a84c45e5
@@ -197,7 +179,7 @@ Version: 1.3
 Architecture: iphoneos-arm64
 Maintainer: LF
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, bash, adv-cmds
-Filename: ./debs/systems/a1_1.3_iphoneos-arm64.deb
+Filename: ./debs/binary-iphoneos-arm64/Systems/a/a1_1.3_iphoneos-arm64.deb
 Size: 10256
 MD5sum: f77ffd563a6cb3718538f076603aad2d
 SHA1: e21110736e5afe948b0f2768a2b07b745617d2b6
@@ -229,7 +211,7 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: LF
 Depends: firmware (>= 15.0)
-Filename: ./debs/Themes/com.Dopamine.themes_1.0_iphoneos-arm64 (1).deb
+Filename: ./debs/binary-iphoneos-arm64/Themes/c/com.Dopamine.themes_1.0_iphoneos-arm64.deb
 Size: 2128
 MD5sum: c63ad24134f4b2ffd4a1fe267100b078
 SHA1: 77a23aca8b6e617ac031d922b6ba81355f9134d4
@@ -245,7 +227,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: @Spor0nix <(null)>
 Depends: mobilesubstrate
-Filename: ./debs/systems/BatteryMaster1380.deb
+Filename: ./debs/binary-iphoneos-arm64/Systems/B/BatteryMaster1380.deb
 Size: 39480
 MD5sum: f45beac2b8f32e474ea3a5112691a2ae
 SHA1: 31187b768419efab97525c05a0217fa17c392c7e
@@ -261,7 +243,7 @@ Architecture: iphoneos-arm64
 Maintainer: Netskao
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/Patches/BiliPurify-END.deb
+Filename: ./debs/binary-iphoneos-arm64/Patches/B/BiliPurify-END.deb
 Size: 6713316
 MD5sum: f5caa105e094ac24c45130b4e7d04e03
 SHA1: 3f745939ec50f37cf23019509ee7ed42496d83d5
@@ -278,7 +260,7 @@ Architecture: iphoneos-arm64
 Maintainer: LF
 Installed-Size: 3022
 Depends: mobilesubstrate
-Filename: ./debs/systems/complicationsnext.deb
+Filename: ./debs/binary-iphoneos-arm64/Systems/c/complicationsnext.deb
 Size: 656660
 MD5sum: 5e26fa2759a3cd379ac5576255878066
 SHA1: d2594b78473126b0c6aaa1c161b2b016f70ee8a9
@@ -299,7 +281,7 @@ Depends: bzip2, darwintools, debianutils, dpkg (>= 1.19.1), gzip, sed, shell-cmd
 Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd
 Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
 Provides: bigbossbetarepo, cydia-sources, cydia-lproj
-Filename: ./debs/systems/CydiaInstallerBeta.deb
+Filename: ./debs/History/binary-iphoneos-arm64/Systems/C/CydiaInstallerBeta.deb
 Size: 1233652
 MD5sum: 0fede3e29a8a268bb2394330d0d6a1b7
 SHA1: b571164fa280011f83f5e932d9e071471256b835
@@ -320,7 +302,7 @@ Depends: bzip2, darwintools, debianutils, dpkg (>= 1.19.1), gzip, sed, shell-cmd
 Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd
 Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
 Provides: bigbossbetarepo, cydia-sources, cydia-lproj
-Filename: ./debs/Old/CydiaInstallerBeta.deb
+Filename: ./debs/binary-iphoneos-arm64/Systems/C/CydiaInstallerBeta.deb
 Size: 1233652
 MD5sum: 0fede3e29a8a268bb2394330d0d6a1b7
 SHA1: b571164fa280011f83f5e932d9e071471256b835
@@ -337,7 +319,7 @@ Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: LF
 Depends: com.spark.snowboard
-Filename: ./debs/Old/iOS26e.deb
+Filename: ./debs/History/binary-iphoneos-arm64/Themes/i/iOS26e.deb
 Size: 2223336
 MD5sum: 93574ce253ce800f96074ffdbb39dfbd
 SHA1: 72815fbc47098a690314512c33123255458076f1
@@ -352,7 +334,7 @@ Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: LF
 Depends: com.spark.snowboard
-Filename: ./debs/Themes/iOS26e.deb
+Filename: ./debs/binary-iphoneos-arm64/Themes/i/iOS26e.deb
 Size: 2223336
 MD5sum: 93574ce253ce800f96074ffdbb39dfbd
 SHA1: 72815fbc47098a690314512c33123255458076f1
@@ -367,7 +349,7 @@ Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: LF
 Depends: com.spark.snowboard, com.spark.snowboard.ui
-Filename: ./debs/Themes/ios26edark.deb
+Filename: ./debs/binary-iphoneos-arm64/Themes/i/ios26edark.deb
 Size: 51333596
 MD5sum: 14fa4baccb704eb3bc8e5242f2af78ec
 SHA1: 43cbfeaba6b116d6d2d60d7ab54bef47bb75fc8c
@@ -383,7 +365,7 @@ Version: 1.0.8
 Architecture: iphoneos-arm64
 Maintainer: LF
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common, xyz.cypwn.cephei-compat, xyz.cypwn.onboardingkitfix | firmware (<< 16.0), xyz.cypwn.xinam1ne
-Filename: ./debs/Old/LottieBar.deb
+Filename: ./debs/History/binary-iphoneos-arm64/Themes/L/LottieBar.deb
 Size: 1013688
 MD5sum: 3a73c1f2907f60d4a51ab3e60b534f48
 SHA1: 7a77ad224ea5f1deac0a6714a5aee190cebd4a39
@@ -398,7 +380,7 @@ Version: 1.0.8
 Architecture: iphoneos-arm64
 Maintainer: LF
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common, xyz.cypwn.cephei-compat, xyz.cypwn.onboardingkitfix | firmware (<< 16.0), xyz.cypwn.xinam1ne
-Filename: ./debs/Themes/LottieBar.deb
+Filename: ./debs/binary-iphoneos-arm64/Themes/L/LottieBar.deb
 Size: 1013688
 MD5sum: 3a73c1f2907f60d4a51ab3e60b534f48
 SHA1: 7a77ad224ea5f1deac0a6714a5aee190cebd4a39

@@ -6,7 +6,7 @@ Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e all
 Components: main
 Description: apt repo of LF
-Date: Fri, 06 Feb 2026 18:29:16 +0800
+Date: Fri, 06 Feb 2026 18:37:58 +0800
 MD5Sum:
  710ee547687d047d65a91ac26d19994a 16043 Packages
  e2a53a2661383b3e2d6ed83883df227e 4888 Packages.xz

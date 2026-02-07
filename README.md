@@ -1,8 +1,8 @@
 # lfjb -- iOS Jailbreak apt Repo of LF
 
-<br>
+> 由AD維護  
+
 #### by AD Reconstruct, by AD Restore update
-<br>
 
 ## Supports
 - RootlessJB
